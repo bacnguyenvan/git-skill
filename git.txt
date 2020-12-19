@@ -1,0 +1,4 @@
+1. change commit message after push
+- git commit --amend -m "new commit message"
+- git push origin <branch> --force
+
