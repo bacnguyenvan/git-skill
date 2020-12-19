@@ -1,0 +1,4 @@
+-user 1
+Hi everyone.
+ 
+I'm User 1 to first commit
