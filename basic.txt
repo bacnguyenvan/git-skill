@@ -2,3 +2,8 @@
 Hi everyone.
  
 I'm User 1 to first commit
+
+- user 2
+Hi
+My name is user 2
+I want to say that: I love you.
